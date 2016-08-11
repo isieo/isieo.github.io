@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://isieo.github.io
+title: Collectskin
+email: calvin@collectskin.com
+author: Calvin Tee
+description: My awesome new site
+paginate: 3
+google_analytics: 
